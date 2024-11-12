@@ -35,8 +35,8 @@ Fractionet is a decentralised platform for investing in fractional shares of hig
 
 ## Contact
 - [Twitter](https://x.com/fractionet](https://x.com/fractionet))
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- Email: malik@example.com
+- [LinkedIn]((https://www.linkedin.com/in/malik-makinde-817a86162/))
+- Email: contact@fractionet.online
 
 
 ## License
